@@ -6,6 +6,7 @@ public class Main {
         String s1 = sc.next();
         String s2 = sc.next();
         twoWords(s1, s2);
+        //
 
     }
 
