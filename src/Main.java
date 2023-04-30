@@ -6,7 +6,7 @@ public class Main {
         String s1 = sc.next();
         String s2 = sc.next();
         twoWords(s1, s2);
-        System.out.println("Halo");
+
     }
 
     private static void twoWords(String s1, String s2) {
