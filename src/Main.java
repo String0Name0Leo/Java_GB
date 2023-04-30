@@ -7,7 +7,7 @@ public class Main {
         String s2 = sc.next();
         twoWords(s1, s2);
         //
-
+    //
     }
 
     private static void twoWords(String s1, String s2) {
